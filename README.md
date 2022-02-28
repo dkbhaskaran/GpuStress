@@ -1,14 +1,18 @@
 GPU Stress test utility based on HIP for AMD GPUs
 
-Requirements:
-  1. ROCm 4.5
-  2. ROCBlas
+1. Requirements:
+  a. ROCm 4.5
+  b. ROCBlas
 
-Build:
-  $ make
+2. Build:
+```
+$ make
+```
 
-Run:
-  $ ./GpuStress
+3. Run:
+```
+$ ./GpuStress
+```
 
 TODO:
 
